@@ -3,7 +3,7 @@ Phần này mình viết một số crawler để thu thập dữ liệu đánh 
 # Một số trang đã có crawler
 * [thegioididong.com](https://www.thegioididong.com/dtdd)
 ![tgdd](img/tgdd.png)
-* [https://www.foody.vn](https://www.foody.vn/)
+* [foody.vn](https://www.foody.vn/)
 ```
 'CityId': 217,
  'ExcludeIds': ',,1603',
