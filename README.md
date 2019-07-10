@@ -3,8 +3,8 @@ Phần này mình viết một số crawler để thu thập dữ liệu đánh 
 # Một số trang đã có crawler
 * [thegioididong.com](https://www.thegioididong.com/dtdd)
 ![tgdd](img/tgdd.png)
-# Các api để crawl thông tin
-## Thegioididong
-
-# Hướng dẫn chạy 
+* [https://www.foody.vn](https://www.foody.vn/)
+![tgdd](img/tgdd.png)
+# Problems
+Nếu bạn có bất kì vấn đề gì, vui lòng liên hệ với mình qua email
 
